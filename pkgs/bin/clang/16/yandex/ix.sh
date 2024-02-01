@@ -9,6 +9,7 @@ lib/llvm/16/tblgen
 {{super()}}
 clang-format
 clang-rename
+clang-tidy
 llvm-cov
 llvm-profdata
 llvm-rc
